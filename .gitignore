@@ -5,3 +5,6 @@
 *.jar
 *.war
 *.ear
+
+# Zipped Files #
+*.tar.gz
