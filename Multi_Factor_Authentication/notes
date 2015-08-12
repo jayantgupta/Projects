@@ -1,0 +1,2 @@
+Changed the visibility GoogleAuthenticator.validateScratchCode(); to Public.
+TODO : Change it back to its old private settings after completion of the demo work.

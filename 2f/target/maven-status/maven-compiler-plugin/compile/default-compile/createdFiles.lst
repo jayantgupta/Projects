@@ -1,0 +1,11 @@
+auth/DBController.class
+main/java/com/warrenstrange/googleauth/ICredentialRepository.class
+main/java/com/warrenstrange/googleauth/IGoogleAuthenticator.class
+main/java/com/warrenstrange/googleauth/GoogleAuthenticator.class
+auth/Application.class
+main/java/com/warrenstrange/googleauth/GoogleAuthenticatorKey.class
+main/java/com/warrenstrange/googleauth/GoogleAuthenticatorException.class
+auth/KeyManager.class
+main/java/com/warrenstrange/googleauth/ReseedingSecureRandom.class
+auth/AuthController.class
+main/java/com/warrenstrange/googleauth/GoogleAuthenticatorQRGenerator.class
